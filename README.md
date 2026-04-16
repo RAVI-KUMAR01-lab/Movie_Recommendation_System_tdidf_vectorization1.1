@@ -81,7 +81,7 @@ python -m streamlit run app.py
 
 ## 📌 Project Type
 
-Content-Based Recommendation System (Machine Learning)
+**Content-Based Recommendation System (Machine Learning)**
 
 ---
 
