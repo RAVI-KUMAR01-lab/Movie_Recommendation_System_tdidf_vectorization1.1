@@ -1,7 +1,8 @@
 # 🎬 Movie Recommendation System
 
 🚨 **Problem:** Too many movies → difficult to find relevant content quickly
-💡 **Solution:** Developed an end-to-end ML-based movie recommendation system using TF-IDF vectorization and cosine similarity, enabling fast, personalized movie suggestions through a Streamlit web application.
+💡 **Solution:** Developed an end-to-end ML-based movie recommendation system using TF-IDF vectorization and cosine similarity, enabling fast, personalized movie suggestions through a Streamlit web application. **
+
 
 ---
 
